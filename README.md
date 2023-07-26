@@ -1,2 +1,2 @@
 # Air-Canvas
-Air Canvas using python
+Draw anything by moving your hands in the air.
